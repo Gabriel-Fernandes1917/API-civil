@@ -1,0 +1,25 @@
+/* Contem CSS exclusivos da aba de registro */
+
+header{
+    width: 100%;
+    background-color: #E6E6E6;
+    padding: 0.43rem;
+}
+
+header > h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+.RegisterForm{
+   
+    border-style: solid;
+    position:absolute;
+    margin-left: 24.125rem;
+    padding: 1rem;
+}
+
+.inputReg{
+    display: block;
+    margin-bottom: 0.5rem;
+}

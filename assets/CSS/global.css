@@ -1,0 +1,20 @@
+/* CSS gerais da pagina */
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    --bgColor: #F0EDED;
+
+    background-color: #F0EDED;
+}
+
+main{
+
+    
+    width: 70%;
+    margin: 2rem auto auto auto;
+    
+}

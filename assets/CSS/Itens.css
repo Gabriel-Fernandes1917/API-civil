@@ -1,0 +1,16 @@
+/* CSS registro de Itens */
+
+table, th, td {
+    border:1px solid black;
+    
+  }
+
+
+th, td {
+    border:1px solid black;
+    padding: 0.438rem;
+  }
+
+table{
+    margin-bottom: 3rem;
+}

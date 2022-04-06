@@ -11,12 +11,17 @@ body{
     background-color: #F0EDED;
 }
 
+a{
+    text-decoration: none;
+}
+
 main{
 
     
     width: 70%;
     margin: 2rem auto 4rem auto;
-
+    
+   
 
     
 }

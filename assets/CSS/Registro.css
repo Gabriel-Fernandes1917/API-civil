@@ -15,7 +15,8 @@ header > h1{
    
     border-style: solid;
     position:absolute;
-    margin-left: 24.125rem;
+    display: block;
+    margin-left: 24.125rem; 
     padding: 1rem;
 }
 
@@ -23,3 +24,40 @@ header > h1{
     display: block;
     margin-bottom: 0.5rem;
 }
+
+.buttonLoginOptios{
+
+    /* background-color: #6DB148;
+    padding: 0.5rem;
+    width: 16rem;
+    border: none;
+    font-weight: bold;
+    display: flex;
+    margin-bottom: 0.5rem;
+     */
+
+     background-color: #6DB148;
+     color: white;
+     border: none;
+     padding: 1rem;
+     width: 16rem;
+     margin-bottom: 0.5rem;
+     font-weight: bold;
+     display: flex;
+}
+
+.buttonLoginOptios:hover{
+
+    cursor: pointer;
+    
+}
+
+.opLogin{
+    position: absolute;
+    border-style: solid;
+    padding: 1rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+

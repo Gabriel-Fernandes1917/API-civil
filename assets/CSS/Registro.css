@@ -44,12 +44,16 @@ header > h1{
      margin-bottom: 0.5rem;
      font-weight: bold;
      display: flex;
+     border-radius: .5rem;
 }
 
 .buttonLoginOptios:hover{
 
     cursor: pointer;
-    
+    transition: 0.5s all;
+    background-color: #2b6e31;
+    color: black;
+    transform: scale(1.1);
 }
 
 .opLogin{

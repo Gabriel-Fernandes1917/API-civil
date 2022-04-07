@@ -23,3 +23,18 @@ table{
 
      
 }
+
+.check :hover{
+  cursor: pointer;
+
+}
+
+
+/* detalhe empresas */
+
+.divDetalhes{
+  background-color: white;
+  width: 70%;
+  padding: 2rem;
+  margin: auto auto auto auto;
+}

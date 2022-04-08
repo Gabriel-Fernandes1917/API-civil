@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+li{
+    list-style: none;
+}
 
 body{
     --bgColor: #F0EDED;
@@ -11,8 +14,43 @@ body{
     background-color: #F0EDED;
 }
 
+header{
+    align-items: center;
+    
+}
+
+header > div{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto auto auto auto;
+}
+
 a{
     text-decoration: none;
+}
+
+.hcabecalho{
+    
+    background-color: #3A4958;
+    
+    border-radius: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+
+
+.hcabecalho > nav > ul{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+   
+}
+
+.hcabecalho > nav > ul > li{
+    
+   margin-right: 1rem;
 }
 
 main{
